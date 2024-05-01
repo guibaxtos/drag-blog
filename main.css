@@ -108,6 +108,10 @@ footer{
 }
 
 @media screen and (max-width: 640px){
+    .card img{
+        width: 265px;
+        height: 265px;
+    }
     section{
         padding-left: 55px;
     }
