@@ -112,6 +112,11 @@ footer{
         width: 265px;
         height: 265px;
     }
+
+    .card{
+        align-items: center;
+    }
+
     section{
         padding-left: 55px;
     }
@@ -126,6 +131,10 @@ footer{
         padding: 0;
         padding-bottom: 12px;
         align-items: center;
+    }
+
+    .sobre img{
+        width: 350px;
     }
 
     .txt{
